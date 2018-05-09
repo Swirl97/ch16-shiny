@@ -2,7 +2,7 @@
 
 # Load the `shiny` package (install it in the R terminal if you haven't already)
 library(shiny)
-
+install.packages("shiny")
 # Define a new `ui` variable. This variable should be assigned a `fluidPage()` 
 # layout, which should be passed the following:
 
